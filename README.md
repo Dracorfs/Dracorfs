@@ -1,15 +1,13 @@
 <h1 align="center">👋 Hi! I'm Francisco <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">Dev for work, techie for life</h3>
+<h3 align="center">🎯Target = 🌌Aesthetics + ⚡Performance</h3>
 
 <p align ="center"><a href="https://www.twitter.com/fransantopietro"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/francisco-santopietro"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/fransantopietro/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
-- 🚀 Currently working on **MailAmericas**
+🚀 Currently working on **MailAmericas**
 
-- 💚 Forever learning
+💚 Forever learning
 
-- **[👨‍💻 Check out my portfolio ⬅️](https://dracorfs.github.io/)**
-
-
+**[👨‍💻 Check out my portfolio ⬅️](https://dracorfs.github.io/)**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dracorfs&show_icons=true&locale=en&layout=compact" alt="Dracorfs" />
 <img src="https://github-readme-stats.vercel.app/api?username=Dracorfs&amp;show_icons=true" alt="GitHub Stats">
