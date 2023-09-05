@@ -9,5 +9,5 @@
 
 **[👨‍💻 Check out my portfolio ⬅️](https://dracorfs.dev)**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dracorfs&show_icons=true&locale=en&layout=compact" alt="Dracorfs" />
-<img src="https://github-readme-stats.vercel.app/api?username=Dracorfs&amp;show_icons=true" alt="GitHub Stats">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=midnight-purple"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dracorfs&amp;show_icons=true&theme=midnight-purple" alt="GitHub Stats">
