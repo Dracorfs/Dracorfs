@@ -12,6 +12,6 @@
 </a>
 
 <div align="center">
-    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=midnight-purple" alt="GitHub Stats" />
-    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dracorfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=vue-dark" alt="GitHub Stats" />
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dracorfs&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
 </div>
