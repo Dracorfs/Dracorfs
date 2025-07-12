@@ -5,11 +5,14 @@
 
 💚 Forever learning
 
-**[👨‍💻 Check out my portfolio ⬅️](https://dracorfs.dev)**
-
-<a href="https://www.linkedin.com/in/francisco-santopietro">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/francisco-santopietro">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="https://dracorfs.dev">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=githubpages&logoColor=white" height="28" />
+  </a>
+</div>
 
 <div align="center">
     <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=vue-dark" alt="GitHub Stats" />
