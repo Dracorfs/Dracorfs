@@ -22,7 +22,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-<div align="center">
-    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=vue-dark" alt="GitHub Stats" />
-    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dracorfs&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-</div>
+| <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=vue-dark" alt="GitHub Stats" /> | <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dracorfs&show_icons=true&theme=vue-dark" alt="GitHub Stats" /> |
+| ------------- | ------------- |
