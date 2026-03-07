@@ -1,5 +1,5 @@
 <h1 align="center">Francisco Santopietro <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h1>
-<h3 align="center">🌌Aesthetics ⚡Performance</h3>
+<h3 align="center">🌌Design ⚡Performance</h3>
 
 🚀 Currently working on **MailAmericas**
 
