@@ -25,5 +25,4 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
 
-| <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dracorfs&layout=compact&theme=vue-dark" alt="GitHub Stats" /> | <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dracorfs&show_icons=true&theme=vue-dark" alt="GitHub Stats" /> |
-| ------------- | ------------- |
+[![Fran's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dracorfs&layout=compact&theme=vue-dark)](https://github.com/stats-organization/github-stats-extended)
